@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adriansimi8" target="blank"><img src="https://img.shields.io/twitter/follow/adriansimi8?logo=twitter&style=for-the-badge" alt="adriansimi8" /></a> </p>
 
-- 🔭 I’m currently working on [All Pot](www.allpot.me)
+- 🔭 I’m currently working on [All Pot](https://www.allpot.me)
 
 - 🌱 I’m currently learning **Ruby on Rails, React, Java Script**
 

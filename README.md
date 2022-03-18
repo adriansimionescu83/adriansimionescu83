@@ -17,7 +17,8 @@
 
 - 📫 How to reach me **simionescuadrian@yahoo.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10KbkAfngQ-ndj9kZ1H0nLRUKfuhb-YPJ/view?usp=sharing](https://drive.google.com/file/d/10KbkAfngQ-ndj9kZ1H0nLRUKfuhb-YPJ/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1tIlbeWKr3MK5gLjHHwL2gwGfVJimevIN/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

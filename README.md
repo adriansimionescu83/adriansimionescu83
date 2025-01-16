@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A passionate Ruby on Rails backend developer looking for exciting projects</h3>
+<h3 align="center">A passionate Ruby on Rails Full Stack developer looking for exciting projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriansimionescu83&label=Profile%20views&color=0e75b6&style=flat" alt="adriansimionescu83" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adriansimi8" target="blank"><img src="https://img.shields.io/twitter/follow/adriansimi8?logo=twitter&style=for-the-badge" alt="adriansimi8" /></a> </p>
 
-- 🔭 I’m currently working as a full stack Rails developer at [Cobbai]([https://www.allpot.me](https://www.cobbai.com/))
+- 🔭 I’m currently working as a Full Stack Ruby on Rails developer at [Cobbai]([https://www.allpot.me](https://www.cobbai.com/))
 
 - 👯 I’m looking to collaborate on **interesting projects with Ruby on Rails**
 

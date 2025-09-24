@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/adriansimi8" target="blank"><img src="https://img.shields.io/twitter/follow/adriansimi8?logo=twitter&style=for-the-badge" alt="adriansimi8" /></a> </p>
 
-- 🔭 I’m currently working as a Full Stack Ruby on Rails developer at [Cobbai]([https://www.allpot.me](https://www.cobbai.com/))
+- 🔭 I’m currently working as a Full Stack Ruby on Rails developer at [Cobbai]((https://www.cobbai.com/))
 
 - 👯 I’m looking to collaborate on **interesting projects with Ruby on Rails**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/simionescuadrian](https://troopl.com/simionescuadrian)
+- 👨‍💻 All of my projects are available at [My Portfolio]((https://www.adriansimionescu.dev/))
 
 - 📫 How to reach me **simionescuadrian@yahoo.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1tIlbeWKr3MK5gLjHHwL2gwGfVJimevIN/view?usp=sharing)
+- 📄 Know about my experiences [My Linkedin]((https://www.linkedin.com/in/adrian-simionescu/))
 
 
 <h3 align="left">Connect with me:</h3>

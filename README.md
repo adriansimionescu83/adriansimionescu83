@@ -47,9 +47,6 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/dynamics365" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Microsoft_Dynamics_365_Logo.svg/1200px-Microsoft_Dynamics_365_Logo.svg.png" alt="dynamics365" width="40" height="40"/>
-  </a>
 
   <!-- Frontend -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -66,9 +63,6 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://stimulus.hotwired.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/hotwired/stimulus/master/logo.svg" alt="stimulus" width="40" height="40"/>
   </a>
 
   <!-- Tools & Platforms -->
@@ -89,6 +83,9 @@
   </a>
 </p>
 
+<p align="left">
+  <strong>Skills:</strong> Ruby on Rails, PostgreSQL, Tailwind CSS, Stimulus, API Development, Dynamics CRM Functional Consultant
+</p>
 
 
 <h3 align="left">Support:</h3>

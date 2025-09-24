@@ -1,22 +1,27 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A passionate Ruby on Rails Full Stack developer looking for exciting projects</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adriansimionescu83&label=Profile%20views&color=0e75b6&style=flat" alt="adriansimionescu83" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=adriansimionescu83&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriansimionescu83" alt="adriansimionescu83" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=adriansimionescu83" alt="GitHub trophies" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/adriansimi8" target="blank"><img src="https://img.shields.io/twitter/follow/adriansimi8?logo=twitter&style=for-the-badge" alt="adriansimi8" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/adriansimi8" target="blank">
+    <img src="https://img.shields.io/twitter/follow/adriansimi8?logo=twitter&style=for-the-badge" alt="Twitter followers" />
+  </a>
+</p>
 
-- 🔭 I’m currently working as a Full Stack Ruby on Rails developer at [Cobbai]((https://www.cobbai.com/))
-
+- 🔭 I’m currently working as a **Full Stack Ruby on Rails developer** at [Cobbai](https://www.cobbai.com/)
 - 👯 I’m looking to collaborate on **interesting projects with Ruby on Rails**
-
-- 👨‍💻 All of my projects are available at [My Portfolio]((https://www.adriansimionescu.dev/))
-
-- 📫 How to reach me **simionescuadrian@yahoo.com**
-
-- 📄 Know about my experiences [My Linkedin]((https://www.linkedin.com/in/adrian-simionescu/))
-
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.adriansimionescu.dev/)
+- 📫 How to reach me: **simionescuadrian@yahoo.com**
+- 📄 Know about my experiences: [My LinkedIn](https://www.linkedin.com/in/adrian-simionescu/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
